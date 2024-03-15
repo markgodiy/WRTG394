@@ -1,0 +1,2 @@
+References
+Anderson, T. (2017). WHY POWERSHELL IS AN ESSENTIAL TOOL: Microsoft’s PowerShell is not just for scripting, but is now a core component for managing and automating Windows servers and Microsoft online services. Computer Weekly, 23–27.

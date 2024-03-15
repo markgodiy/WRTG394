@@ -56,23 +56,36 @@ events.
 
 ## Response Draft 1
 
-The problem at the student's company is that the company is not using the most effective communication techniques. The student has accurately identified her decision maker, who is the company's CEO. The decision maker is appropriate because the CEO is the highest-ranking official in the company. The student has accurately identified her relationship to the decision maker by identifying her position as the company's communication director. The memo follows the template provided in the assignment instructions. The memo is written in the correct format and includes the necessary elements, such as the date, to, from, subject, and body of the memo. The memo also includes a clear and concise introduction, body, and conclusion. The memo is well-organized and effectively communicates the problem and the proposed solution.
-
-## Response Draft 2
-
 (business writing uses first-person view, active voice, and concise, direct language. )
-From: 
+
+*What is the problem at her company that the student is addressing?*
 
 The student's company is not using the most effective communication techniques. The student has accurately identified her decision maker, who is the company's CEO. 
 
-The decision maker is appropriate because the CEO is the highest-ranking official in the company. The student has accurately identified her relationship to the decision maker by identifying her position as the company's communication director. 
+The decision maker is appropriate because the HR Business Partner of Naval Aviation Company is responsible for the company's human resources and can make decisions about company policies and procedures. The student has accurately identified her relationship to the decision maker by identifying her position as a Program Analyst.
 
 The memo follows the template provided in the assignment instructions. The memo is written in the correct format and includes the necessary elements, such as the date, to, from, subject, and body of the memo. The memo also includes a clear and concise introduction, body, and conclusion. The memo is well-organized and effectively communicates the problem and the proposed solution.
 
 -Mark
 
-## Response Draft 3
+## Response Draft 2
 
 
 
+The student has accurately identified her decision maker, who is the company's CEO. The decision maker is appropriate because the CEO is the highest-ranking official in the company. The student has accurately identified her relationship to the decision maker by identifying her position as the company's Human Resources program analyst. 
 
+The memo follows the template provided in the assignment instructions. The memo is written in the correct format and includes the necessary elements, such as the date, to, from, subject, and body of the memo. The memo also includes a clear and concise introduction, body, and conclusion. The memo is well-organized and effectively communicates the problem and the proposed solution.
+
+ 
+
+
+
+## Response to one of my classmates: 
+
+In my opinion, the student writer of the sample memo failed to provide quantifiable and empirical data to support their assessment that remote work is hindering efficiency and productivity. 
+
+The student writer should have conducted a survey or a focus group to gather data on the impact of remote work on employee engagement and productivity. The student writer should have also conducted a literature review to support their claims about the benefits of face-to-face communication and the drawbacks of remote work.
+
+Traditional work environment and face-to-face communication are not always the best solutions for every company. The student writer should have considered alternative solutions, such as improving the company's telework policies and investing in communication technologies that can facilitate collaboration among remote employees. 
+
+To this end, I dont think the decision maker may be convinced by the student writer's proposal.

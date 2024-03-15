@@ -3,3 +3,4 @@ The transition from using passive to active voice in business writing, as compar
 
 
 
+The Lumen Learning resource discusses how email and other web based forms of communication and reduced memo use in workplaces. Consider your own workplace (or a similar setting such as an organization/club/team, etc.) you belong to or are involved with and discuss whether your own experience in the communication setting you have chosen seems to prove that Lumen's claim about the "death of memos" seems valid or seems - premature, let's say.

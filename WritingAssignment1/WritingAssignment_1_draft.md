@@ -10,7 +10,7 @@ Draft for Writing Assignment #1 (WA1): Proposal Memo to Decision-maker, focusing
 
 **Summary**
 
-This memo proposes a strategic initiative to increase engagement with PowerShell automation among our IT professionals. By making PowerShell more accessible, exciting, and user-friendly, we aim to significantly improve operational efficiency and extend our capabilities as IT specialists.
+This memo proposes a strategic initiative to increase engagement with PowerShell scripting and automation within our team. By making PowerShell more accessible, exciting, and user-friendly, we aim to significantly improve operational efficiency and extend our capabilities as IT specialists. The lack of knowledge and engagement in PowerShell scripting is currently limiting our department's potential and likely contributing to inefficiency and human error. This proposal seeks to address these challenges and unlock the full benefits of PowerShell automation.
 
 **Problem Statement**
 

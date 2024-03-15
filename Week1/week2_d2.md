@@ -26,11 +26,11 @@ I am proposing to conduct research on the problem of workplace communication at 
 
 ## Response Draft 2
 
-Research topic: How to increase engagement of PowerShell automation in my workplace to improve efficiency and reduce human error. PowerShell scripting is intimidating to many IT professionals, and I want to research how to make it more accessible, exciting, and user-friendly.
+Research topic: How to increase engagement of PowerShell automation in my workplace to improve efficiency. PowerShell scripting is intimidating to many IT professionals, and I want to research how to make it more accessible, exciting, and user-friendly.
 
-DecisionMaker: My department head, who is responsible for approving training and new technology implementation in our department.
+Decision Maker: My supervisor, who is responsible for approving training and new technology implementation in our department.
 
-Benefit to my workplace: PowerShell automation can help us automate repetitive tasks, reduce human error, and improve efficiency in our department. Compared to using GUI tools, PowerShell automation grants us more control and access to more features and functionalities. It can also help us save time and resources by automating tasks that would otherwise require manual intervention.
+Benefit to my workplace: PowerShell automation can help us automate repetitive tasks, reduce human error, and improve efficiency in our department. Compared to using GUI tools, PowerShell automation grants us more control and access to more features and functionalities. It can also help us save time and resources by automating tasks that would otherwise require manual intervention. 
 It's also a valuable skill to have in the IT industry, and learning it can help us improve our career prospects. 
 
 Secondary research: I will look for scholarly and professional/trade sources that discuss the benefits of scripting automation in the workplace. I will also look for sources that discuss the most common challenges in implementing PowerShell automation and how to overcome them.
@@ -61,3 +61,6 @@ Thank you for your consideration.
 
 Sincerely,
 [Your Name]
+
+
+
